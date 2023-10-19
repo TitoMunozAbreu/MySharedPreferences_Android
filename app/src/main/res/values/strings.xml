@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySharedPreferences</string>
+    <string name="email">Ingresar email</string>
+    <string name="movil">Ingresar movil</string>
+    <string name="nombre">Ingresar nombre</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnBuscar">Buscar</string>
+
+</resources>
